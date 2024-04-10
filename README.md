@@ -1,5 +1,9 @@
 # Find the GCD of two numbers
+Name:J.JANANI
 
+Register no:212223230085
+
+Department:B.Tech AIDS
 ## AIM:
 To write a program to find the GCD of two numbers using function.
 
