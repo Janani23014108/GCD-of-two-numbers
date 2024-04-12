@@ -1,5 +1,20 @@
+## Find the GCD of two numbers
+Name:J.JANANI
 
-odle-Code Runner
+Register no:212223230085
+
+Department:B.Tech AIDS
+
+## AIM:
+
+To write a program to find the GCD of two numbers using function.
+
+## Equipments Required:
+
+1.Hardware – PCs
+
+2.Anaconda – Python 3.7 Installation / Moodle-Code Runner
+
 
 ## Algorithm
 **step 1:**
@@ -40,8 +55,8 @@ def gcd():
 
 ## Output:
 
+![python 4th](https://github.com/Janani23014108/GCD-of-two-numbers/assets/146822085/b6b5bff8-1137-4351-a023-3e155fa943ca)
 
-![python exp 4](https://github.com/Janani23014108/GCD-of-two-numbers/assets/146822085/b6f8ad43-a759-43af-9605-02536f7fcd16)
 
 
 
