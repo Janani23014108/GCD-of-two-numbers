@@ -1,21 +1,22 @@
-# Find the GCD of two numbers
-Name:J.JANANI
 
-Register no:212223230085
-
-Department:B.Tech AIDS
-## AIM:
-To write a program to find the GCD of two numbers using function.
-
-## Equipments Required:
-1. Hardware – PCs
-2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
+odle-Code Runner
 
 ## Algorithm
-1. Define a function.
-2. Get the two numbers from the user.
-3. Compare the two values, to find the smaller number.
-4. Use for() and if() loop to find the GCD of the two numbers.
+**step 1:**
+
+Define a function.
+
+**step 2:**
+
+Get the two numbers from the user.
+
+**step 3:**
+
+Compare the two values, to find the smaller number.
+
+**step 4:** 
+
+Use for() and if() loop to find the GCD of the two numbers.
 
 ## Program:
 ```
@@ -40,8 +41,9 @@ def gcd():
 ## Output:
 
 
+![python exp 4](https://github.com/Janani23014108/GCD-of-two-numbers/assets/146822085/b6f8ad43-a759-43af-9605-02536f7fcd16)
 
-![exp 4py](https://github.com/Janani23014108/GCD-of-two-numbers/assets/146822085/99712145-c8ea-45bb-9bc0-99ecd59e8c37)
+
 
 ## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
